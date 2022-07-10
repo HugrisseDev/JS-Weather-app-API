@@ -6,8 +6,13 @@ body{
     margin: 0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: rgba(243, 19, 19, 0.133);
-background-image: url('https://source.unsplash.com/1800x950/?Landscape');}
+    background-image: url('https://source.unsplash.com/1800x950/?Landscape');
+    font-size: 120%;}
 
+.temp{
+    font-size: 40px;
+    margin: 0;
+}
 
 .card{
     background: #000000d0;

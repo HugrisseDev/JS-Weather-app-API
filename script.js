@@ -42,4 +42,8 @@ document.querySelector(".search-bar")
 
 weather.fetchWeather("libreville");
 
+
+// I have to improve my code commenting skill so that people read my code easly !!! 
+// I have to improve my code commenting skill so that people read my code easly !!! 
+// I have to improve my code commenting skill so that people read my code easly !!! 
 // I have to improve my code commenting skill so that people read my code easly !!! 

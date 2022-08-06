@@ -17,6 +17,8 @@ let weather = {
     const { temp, humidity } = data.main;
     const { speed } = data.wind;
     // console.log(name,icon, description,temp, humidity,speed);
+
+    // now let use some JS propreties to fetch datas from open weather website 
     document.querySelector(".city").innerText = "Weather in " + name;
     document.querySelector(".icon").src ="https://openweathermap.org/img/wn/"+ icon + ".png";
     document.querySelector(".description").innerText = description;

@@ -1,3 +1,5 @@
+// <> <> <> <> <> The ApiKey has be taken from the website "openweathermap.com"
+
 let weather = {
     'apikey':'8c2e3e940c36132c55c0a5b07c6c327c',
     fetchWeather: function(city){
